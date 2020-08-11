@@ -1,10 +1,9 @@
 count = 10
 
 while count >= 1 do
-  if count 
     puts count
     count -= 1
-  else
+end
     puts "Happy New Year!"
   
 end
